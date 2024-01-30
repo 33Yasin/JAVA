@@ -1,5 +1,4 @@
 Here you can find codes and explanations about the basics of Java.
-Also in "mini projects" file, you will see some good and basic java projects for beginner.
 I recommend you look at them in this order:
 1-Intro
 2-Variables
@@ -14,3 +13,5 @@ I recommend you look at them in this order:
 11-Arrays
 12-Methods
 13-Method Overloading
+
+Also in "mini projects" file, you will see some good and basic java projects for beginner.
